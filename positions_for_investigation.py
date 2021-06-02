@@ -100,7 +100,8 @@ while True:
 
             # save the data for investigate() testing
             investigate_test_data.append(
-                {'score_a': prev_score, 'score_b': cur_score, 'board': board_to_dict(node.board(), True), 'result': result})
+                {'score_a': prev_score, 'score_b': cur_score, 'board': board_to_dict(node.board(), True),
+                 'result': result})
 
         prev_score = cur_score
         node = next_node
