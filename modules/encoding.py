@@ -49,7 +49,8 @@ def positionlist_to_dict(pl: position_list) -> dict:
         'evaluation': score_to_dict(pl.evaluation),
         'next_position': positionlist_to_dict(pl.next_position) if pl.next_position else None,
         'analysed_legals': [analyzed_to_dict(al) for al in pl.analysed_legals],
-        'strict': pl.strict
+        'strict': pl.strict,
+        'is_ambiguous': pl.ambiguous()
     } if pl else None
 
 

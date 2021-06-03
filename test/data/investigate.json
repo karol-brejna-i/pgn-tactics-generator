@@ -1,11 +1,25 @@
 [
   {
     "score_a": [
-      180,
+      -25,
       null
     ],
     "score_b": [
-      378,
+      227,
+      null
+    ],
+    "board": {
+      "fen": "rnbqk1nr/3p1ppp/p3p3/1pb5/4P3/2NB1N2/PPP2PPP/R1BQK2R b KQkq - 1 6"
+    },
+    "result": true
+  },
+  {
+    "score_a": [
+      196,
+      null
+    ],
+    "score_b": [
+      351,
       null
     ],
     "board": {
@@ -15,25 +29,11 @@
   },
   {
     "score_a": [
-      -60,
+      123,
       null
     ],
     "score_b": [
-      212,
-      null
-    ],
-    "board": {
-      "fen": "r3k2r/3p1ppp/pqb1p3/1p6/1P1bB3/P1N5/2PB1PPP/R2Q1RK1 b kq - 0 13"
-    },
-    "result": true
-  },
-  {
-    "score_a": [
-      91,
-      null
-    ],
-    "score_b": [
-      273,
+      245,
       null
     ],
     "board": {
@@ -47,21 +47,21 @@
       null
     ],
     "score_b": [
-      308,
+      254,
       null
     ],
     "board": {
-      "fen": "r5k1/p1p2ppp/2pp4/4b3/4P3/1P3QPq/P1P2P1P/1R2R1K1 b - - 2 19"
+      "fen": "4r1k1/p1p2ppp/2pp4/4b3/P3P3/1P3QPq/2P2P1P/1R2R1K1 b - - 0 20"
     },
     "result": true
   },
   {
     "score_a": [
-      180,
+      274,
       null
     ],
     "score_b": [
-      711,
+      693,
       null
     ],
     "board": {
@@ -71,11 +71,11 @@
   },
   {
     "score_a": [
-      711,
+      693,
       null
     ],
     "score_b": [
-      203,
+      262,
       null
     ],
     "board": {
@@ -85,11 +85,25 @@
   },
   {
     "score_a": [
-      172,
+      -102,
       null
     ],
     "score_b": [
-      642,
+      205,
+      null
+    ],
+    "board": {
+      "fen": "4r1k1/p1pQ1ppp/1b1p3q/2p5/4P3/1P4P1/2P1RP1P/R5K1 b - - 5 25"
+    },
+    "result": true
+  },
+  {
+    "score_a": [
+      126,
+      null
+    ],
+    "score_b": [
+      761,
       null
     ],
     "board": {
@@ -99,11 +113,11 @@
   },
   {
     "score_a": [
-      -66,
+      -36,
       null
     ],
     "score_b": [
-      723,
+      690,
       null
     ],
     "board": {
@@ -113,25 +127,11 @@
   },
   {
     "score_a": [
-      -26,
+      75,
       null
     ],
     "score_b": [
-      203,
-      null
-    ],
-    "board": {
-      "fen": "2kr2r1/1pp2p1p/p6q/3P1p2/8/1Q6/P4PPP/1RR3K1 b - - 3 22"
-    },
-    "result": true
-  },
-  {
-    "score_a": [
-      64,
-      null
-    ],
-    "score_b": [
-      274,
+      229,
       null
     ],
     "board": {
@@ -141,11 +141,11 @@
   },
   {
     "score_a": [
-      68,
+      44,
       null
     ],
     "score_b": [
-      627,
+      700,
       null
     ],
     "board": {

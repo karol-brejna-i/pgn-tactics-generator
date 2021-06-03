@@ -61,9 +61,8 @@ class TestRegression(unittest.TestCase):
         for definition in TestRegression.complete_test_data:
             logging.debug(f"Testing puzzle {definition}")
 
-            expected_result = definition['is_complete']
-
             pd = definition['puzzle']
+            expected_result = pd['positions']['is_ambiguous']
             puzzle = puzzle_from_dict(pd)
             result = puzzle.positions.ambiguous()
 
